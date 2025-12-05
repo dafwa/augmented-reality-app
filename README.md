@@ -2,6 +2,8 @@
 
 An Augmented Reality application built with Unity and the Vuforia Engine.
 
+[Download the APK here.](https://github.com/dafwa/augmented-reality-app/releases/tag/prototype)
+
 ---
 
 ## ⚠️ IMPORTANT: Do NOT Use "Download ZIP"
